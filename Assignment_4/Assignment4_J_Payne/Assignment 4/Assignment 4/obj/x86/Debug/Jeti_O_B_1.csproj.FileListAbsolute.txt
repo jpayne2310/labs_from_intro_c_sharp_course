@@ -1,0 +1,7 @@
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\obj\x86\Debug\Assignment_4.Jedi.resources
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\obj\x86\Debug\Assignment_4.Properties.Resources.resources
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\obj\x86\Debug\Jeti_O_B_1.csproj.GenerateResource.Cache
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\obj\x86\Debug\Assignment 4.exe
+E:\Programs\Assignment 4\Assignment 4\Assignment 4\obj\x86\Debug\Assignment 4.pdb

@@ -1,0 +1,10 @@
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\bin\Debug\Mid-Term.exe
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\bin\Debug\Mid-Term.pdb
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid_Term.Form1.resources
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid_Term.Properties.Resources.resources
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.csproj.GenerateResource.Cache
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.exe
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.pdb
+D:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.csprojResolveAssemblyReference.cache
+F:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.exe
+F:\Programs\Mid-Term\Mid-Term\Mid-Term\obj\x86\Debug\Mid-Term.pdb
